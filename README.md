@@ -17,21 +17,6 @@ Here are some ideas to get you started:
 <div align="left">
 <img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyuan18&hide=html,css,Jupyter+Notebook,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=cobalt" align="center" />
 <img height='180' src="https://github-readme-stats.vercel.app/api?username=Jyuan18&show_icons=true&theme=cobalt" align="center" />
-</div>  
-
-<br/>
-
-# About My Github
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jyuan18&layout=compact&langs_count=8&theme=cobalt)](https://github.com/Jyuan18/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Jyuan18&show_icons=true&theme=cobalt)](https://github.com/Jyuan18/github-readme-stats)-->
-
-<div>
-    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=Jyuan18&theme=calm&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyuan18&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
-</div>
-
 -->
 
 ### Hi there 👋
