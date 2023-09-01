@@ -47,12 +47,8 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/Jyuan18/count.svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Jyuan18&show_icons=true&theme=cobalt)](https://github.com/Jyuan18/github-readme-stats)-->
 
 <div>
-  <div style="float: left; margin-right: 10px;">
-    <img height='160' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyuan18&hide=html,css,Jupyter+Notebook,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=cobalt" />
-  </div>
-  <div style="float: left;">
-    <img height='160' src="https://github-readme-stats.vercel.app/api?username=Jyuan18&show_icons=true&theme=cobalt" />
-  </div>
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=Jyuan18&theme=calm&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyuan18&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
 </div>
 
 <br/>  
