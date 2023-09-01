@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 📍  Shanghai
 - 👨‍🎓  IEM
 - 👩‍💻  2 年之前 of work
-- 😄  Whatever you do, do whole-heartedly.
+- 😄  For me: Whatever you do, do whole-heartedly.
 <br/>
 <br/>
 
