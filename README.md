@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 - 👨‍🎓  IEM
 - 👩‍💻  2 年之前 of work
 - 😄  For me: Whatever you do, do whole-heartedly.
+- 请不要假装很努力，因为结果不会陪你演戏。
 <br/>
 <br/>
 
