@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 <img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
 
-<h2><img src="https://cdn.staticaly.com/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="50"> Hi, I'm Yuan Ji ! <img src="https://cdn.staticaly.com/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="50"></h2>
+<h2><img src="https://cdn.staticaly.com/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="50"> Hi, I'm YJ ! <img src="https://cdn.staticaly.com/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="50"></h2>
 
 <br/>
 
